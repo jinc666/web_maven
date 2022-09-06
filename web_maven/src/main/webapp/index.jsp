@@ -30,9 +30,7 @@
 	<a href="demo3.jsp">demo3</a>
 	<a href="demo4.jsp">demo4</a>
         <a href="demo5.jsp">demo5</a>
-<a href="demo6.jsp">demo666666666777777777776</a>
-<a href="demo6.jsp">demo1111111111111</a>
-<a href="demo6.jsp">demo2222222222221</a>
+<a href="demo6.jsp">第一次提交</a>
 
 </body>
 </html>
